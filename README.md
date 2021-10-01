@@ -36,7 +36,7 @@ The application allows a user to add an event to the database, with the followin
 
 It also allows a user to see a table with all created events.
 
-<img src='public/demo.gif' title='Video Walkthrough' width='400px' alt='Video Walkthrough' />
+<img src='public/demo.gif' title='Video Walkthrough' width='600px' alt='Video Walkthrough' />
 
 ### Built With
 
