@@ -1,6 +1,5 @@
-Job application to Brainhub
+## Application for Brainhub
 
-<!-- PROJECT LOGO -->
 <br />
 
 <!-- TABLE OF CONTENTS -->
