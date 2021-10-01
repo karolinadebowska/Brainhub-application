@@ -26,14 +26,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple app with frontend implemented in React and connected with a simple API written in Node.js with data saved in DB (PostgreSQL).
+A simple responsive app with frontend implemented in React and connected with a simple API written in Node.js with data saved in DB (PostgreSQL). The application was designed following the Mobile First Responsive Design.
 
 The application allows a user to add an event to the database, with the following fields:
 * First name (required)
 * Last name (required)
 * Email (required, valid email address)
 * Event date (required, simple date picker)
-* 
+
+It also allows a user to see a table with all created events.
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
