@@ -35,6 +35,9 @@ The application allows a user to add an event to the database, with the followin
 * Event date (required, simple date picker)
 
 It also allows a user to see a table with all created events.
+
+<img src='public/demo.gif' title='Video Walkthrough' width='400px' alt='Video Walkthrough' />
+
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
