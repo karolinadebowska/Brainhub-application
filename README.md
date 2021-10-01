@@ -46,15 +46,15 @@ This section should list any major frameworks that you built your project using.
 * [SuperTest](https://www.npmjs.com/package/supertest)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Prerequisites
 
-*npm
-*node.js
+* npm
+* Node.js
 
 ### Installation
 
