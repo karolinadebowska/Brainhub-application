@@ -50,34 +50,38 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+*npm
+*node.js
 
 ### Installation
 
-1. Clone the repo
-2. 
+1. Clone the repo 
+  ```sh
+  git clone https://github.com/karolinadebowska/Brainhub-application.git
+  ```
+2. Navigate to the root folder
+  ```sh
+  cd Brainhub-application
+  ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-3. Run the PostgreSQL `config.js`
-   ```sh
-   npm install
+4. Navigate to node-postgres folder
+ ```sh
+   cd node-postgres
    ```
-4.
+5. Run the PostgreSQL database
+   ```sh
+   node index.js
+   ```
+6. Open another terminal window and navigate to the root directory of the project (Brainhub-application). Now you can run the application.
  ```sh
    npm start
    ```
-
+   
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -85,14 +89,11 @@ The page will reload if you make edits.\
 
 ### Testing
 
-To run the tests:
-```sh
-   cd 
-   ```
+To run the tests, go to the root directory of the project (Brainhub-application) and launches the test runner.
 ```sh
    npm test
    ```
-   Launches the test runner in the interactive watch mode.\
+   
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 <!-- CONTACT -->
