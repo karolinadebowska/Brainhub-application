@@ -1,6 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+Job application to Brainhub
 
 <!-- PROJECT LOGO -->
 <br />
