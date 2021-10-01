@@ -1,0 +1,7 @@
+#showButton{
+  margin: 2rem 0px;
+}
+td,th {
+  word-wrap: break-word;
+  max-width: 25vw;
+}

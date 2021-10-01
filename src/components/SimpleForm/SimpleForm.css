@@ -1,0 +1,42 @@
+#submitButton{
+  width: 100px;
+  background-color: black;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.asterix{
+  color:red
+}
+
+#dateField{
+  display:inline-block;
+}
+
+#endRow{
+  display: flex;
+  justify-content: space-between;
+  align-items: self-end;
+}
+
+.formControl{
+  max-width: 300px;
+}
+
+.form-group{
+  padding-bottom: 2px;
+}
+
+@media only screen and (min-width: 600px) {
+  #endRow{
+    justify-content: unset;
+  }
+  #submitButton{
+    margin-left: 78px;
+  }
+}
+
+.App{
+  background-color:#fdfdfd;
+  color:#2a2550;
+}
